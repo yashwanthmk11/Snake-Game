@@ -2,7 +2,7 @@
 Classic Snake Game built with HTML, CSS & JavaScript 🎮
 This is a simple web-based Snake game where the player controls a snake to eat food, grow longer, and avoid running into the walls or the snake’s own body.
 
-🎯 Gameplay
+## 🎯 Gameplay
 
 
 Use the arrow keys (↑ ↓ ← →) to control the snake’s movement.
@@ -18,7 +18,7 @@ Avoid colliding with the walls or the snake’s own tail — that ends the game!
 
 
 
-📦 Features
+## 📦 Features
 
 
 Interactive browser game with HTML5 and JavaScript.
@@ -34,7 +34,7 @@ Easy to extend or customize.
 
 
 
-🧠 How It Works
+## 🧠 How It Works
 
 
 The game area is rendered using HTML and CSS.
@@ -59,8 +59,8 @@ Score tracking
 
 You can explore the game logic in index.js.
 
-🚀 Usage
-🛠️ Run Locally
+## 🚀 Usage
+# 🛠️ Run Locally
 
 
 Clone the repo
@@ -74,13 +74,13 @@ Open index.html in your favorite web browser.
 
 
 
-🧩 File Structure
+## 🧩 File Structure
 ├── index.html     # Main HTML file for game markup
 ├── index.js       # Game logic & controls
 └── (optional) CSS # Styling (if present)
 
 
-🛠️ Customize
+## 🛠️ Customize
 You can extend this project by adding:
 
 
@@ -100,7 +100,7 @@ Mobile touch controls
 
 
 
-❓ Notes
+## ❓ Notes
 
 
 Make sure JS is enabled in your browser.
@@ -110,10 +110,10 @@ Tested on modern browsers (Chrome/Firefox/Edge).
 
 
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit improvements or new features.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License © 2025 Yashwanth M K.
 
 
