@@ -1,4 +1,4 @@
-🐍 Snake Game
+## 🐍 Snake Game
 Classic Snake Game built with HTML, CSS & JavaScript 🎮
 This is a simple web-based Snake game where the player controls a snake to eat food, grow longer, and avoid running into the walls or the snake’s own body.
 
