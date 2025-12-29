@@ -114,6 +114,6 @@ Tested on modern browsers (Chrome/Firefox/Edge).
 Contributions are welcome! Feel free to fork the repo and submit improvements or new features.
 
 ## 📄 License
-This project is licensed under the MIT License © 2025 Yashwanth MK.
+This project is licensed under the MIT License © 2025 Yashwanth M K.
 
 
